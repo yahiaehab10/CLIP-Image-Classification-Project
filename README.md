@@ -47,4 +47,4 @@ This project focuses on image classification, specifically distinguishing betwee
 
 ## Affiliation
 
-This project is part of the [Course Name] at the German International University (GIU).
+This project is part of the Machine Learning at the German International University (GIU).
